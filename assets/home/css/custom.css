@@ -1,0 +1,16 @@
+/* Add here all your CSS customizations */
+.nav .active a  {
+    background-color: green !important;
+    color: white !important;
+}
+
+.nav a{
+    color: #000 !important;
+}
+iframe {
+    border: 0 !important;
+    background-color: white;
+}
+.nav a:hover{
+    color: white !important;
+}
